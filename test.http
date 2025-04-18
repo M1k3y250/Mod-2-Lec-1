@@ -1,0 +1,8 @@
+### Página principal
+GET http://localhost:5000/
+
+### Lista de libros
+GET http://localhost:5000/books
+
+### Lista de autores
+GET http://localhost:5000/authors
